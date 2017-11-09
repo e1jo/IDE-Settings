@@ -4,11 +4,12 @@
     <property name="created">2017-09-26T11:23:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-10-10T12:10:54</property>
+    <property name="modified">2017-11-09T12:24:04</property>
     <property name="originalScheme">_@user_Railscasts</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="333435" />
@@ -744,7 +745,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="45d55c" />
+        <option name="FOREGROUND" value="b5b74c" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -752,23 +753,30 @@
         <option name="FOREGROUND" value="a79a26" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="82919f" />
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5d6f69" />
+        <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="33e9c7" />
+      </value>
+    </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="39cee6" />
+        <option name="FOREGROUND" value="e6e1dc" />
+        <option name="BACKGROUND" value="2b2b2b" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="3aadc3" />
-      </value>
-    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
