@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="accentColor" value="7CB342" />
-    <option name="useProjectViewDecorators" value="false" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isMaterialTheme" value="false" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
