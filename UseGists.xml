@@ -1,0 +1,925 @@
+<application>
+  <component name="UseGists">
+    <option name="account">
+      <account id="c9c17b1b-92b5-488d-91d0-1f40e8c89b32" name="allekss90">
+        <server host="github.com" />
+      </account>
+    </option>
+    <option name="gists">
+      <list>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/2e23c254e70914c590b7cd11069097da/commits" />
+          <option name="createdAt" value="2018-10-17T14:52:45Z" />
+          <option name="description" value="html-template/chess-block" />
+          <option name="files">
+            <map>
+              <entry key="chess.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="chess.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/2e23c254e70914c590b7cd11069097da/raw/b5e973aecd6ed8edf31d13bc80b22c61abfd7454/chess.css" />
+                    <option name="size" value="1478" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="chess.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="chess.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/2e23c254e70914c590b7cd11069097da/raw/9a0491a9e5714dc26e930a58ee0a705655906e99/chess.html" />
+                    <option name="size" value="6158" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/2e23c254e70914c590b7cd11069097da/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/2e23c254e70914c590b7cd11069097da.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/2e23c254e70914c590b7cd11069097da.git" />
+          <option name="htmlUrl" value="https://gist.github.com/2e23c254e70914c590b7cd11069097da" />
+          <option name="id" value="2e23c254e70914c590b7cd11069097da" />
+          <option name="nodeId" value="MDQ6R2lzdDJlMjNjMjU0ZTcwOTE0YzU5MGI3Y2QxMTA2OTA5N2Rh" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-10-17T14:52:46Z" />
+          <option name="url" value="https://api.github.com/gists/2e23c254e70914c590b7cd11069097da" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/9c6b588be50204d65d28b496a1db71ba/commits" />
+          <option name="createdAt" value="2018-09-18T11:54:56Z" />
+          <option name="description" value="site-lang static" />
+          <option name="files">
+            <map>
+              <entry key="site-lang.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="site-lang.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/9c6b588be50204d65d28b496a1db71ba/raw/34f16672db0eae2278b9d6e922f71f3a88de27f7/site-lang.css" />
+                    <option name="size" value="718" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="site-lang.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="site-lang.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/9c6b588be50204d65d28b496a1db71ba/raw/91661daf6abd0125a5d722cb97463b83dc7f1023/site-lang.html" />
+                    <option name="size" value="214" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/9c6b588be50204d65d28b496a1db71ba/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/9c6b588be50204d65d28b496a1db71ba.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/9c6b588be50204d65d28b496a1db71ba.git" />
+          <option name="htmlUrl" value="https://gist.github.com/9c6b588be50204d65d28b496a1db71ba" />
+          <option name="id" value="9c6b588be50204d65d28b496a1db71ba" />
+          <option name="nodeId" value="MDQ6R2lzdDljNmI1ODhiZTUwMjA0ZDY1ZDI4YjQ5NmExZGI3MWJh" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-09-18T11:54:56Z" />
+          <option name="url" value="https://api.github.com/gists/9c6b588be50204d65d28b496a1db71ba" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/1ff54381cbf157c13edefe680abef7b9/commits" />
+          <option name="createdAt" value="2018-07-26T13:29:11Z" />
+          <option name="description" value="jq-filter" />
+          <option name="files">
+            <map>
+              <entry key="jq-filter.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="jq-filter.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/1ff54381cbf157c13edefe680abef7b9/raw/bca79a1d721d395af81b2d4c5a61f8587fe37e3a/jq-filter.html" />
+                    <option name="size" value="734" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="jq-filter.js">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="jq-filter.js" />
+                    <option name="language" value="JavaScript" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/1ff54381cbf157c13edefe680abef7b9/raw/11787198bdd654e5991cd9f2a705b6b5105cb849/jq-filter.js" />
+                    <option name="size" value="343" />
+                    <option name="type" value="application/javascript" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/1ff54381cbf157c13edefe680abef7b9/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/1ff54381cbf157c13edefe680abef7b9.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/1ff54381cbf157c13edefe680abef7b9.git" />
+          <option name="htmlUrl" value="https://gist.github.com/1ff54381cbf157c13edefe680abef7b9" />
+          <option name="id" value="1ff54381cbf157c13edefe680abef7b9" />
+          <option name="nodeId" value="MDQ6R2lzdDFmZjU0MzgxY2JmMTU3YzEzZWRlZmU2ODBhYmVmN2I5" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-07-26T13:29:11Z" />
+          <option name="url" value="https://api.github.com/gists/1ff54381cbf157c13edefe680abef7b9" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/fd38825d5bcfaf861807438e6ee4b07a/commits" />
+          <option name="createdAt" value="2018-07-26T13:25:07Z" />
+          <option name="description" value="custom-select" />
+          <option name="files">
+            <map>
+              <entry key="custom-select.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="custom-select.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/fd38825d5bcfaf861807438e6ee4b07a/raw/479bb3aed73c3a9a3946dfeea8b6f595f6b1dee7/custom-select.css" />
+                    <option name="size" value="2889" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="custom-select.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="custom-select.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/fd38825d5bcfaf861807438e6ee4b07a/raw/6fdbfc5d4e9165b1fcba75ef3c79264ff6cd12f2/custom-select.html" />
+                    <option name="size" value="412" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="custom-select.js">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="custom-select.js" />
+                    <option name="language" value="JavaScript" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/fd38825d5bcfaf861807438e6ee4b07a/raw/bec90f6d7f4eaeba17ba709035e26705a1cd4908/custom-select.js" />
+                    <option name="size" value="1530" />
+                    <option name="type" value="application/javascript" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/fd38825d5bcfaf861807438e6ee4b07a/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/fd38825d5bcfaf861807438e6ee4b07a.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/fd38825d5bcfaf861807438e6ee4b07a.git" />
+          <option name="htmlUrl" value="https://gist.github.com/fd38825d5bcfaf861807438e6ee4b07a" />
+          <option name="id" value="fd38825d5bcfaf861807438e6ee4b07a" />
+          <option name="nodeId" value="MDQ6R2lzdGZkMzg4MjVkNWJjZmFmODYxODA3NDM4ZTZlZTRiMDdh" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-07-26T13:25:07Z" />
+          <option name="url" value="https://api.github.com/gists/fd38825d5bcfaf861807438e6ee4b07a" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/d46d3b28c3b852a2e016d142f6fcbae1/commits" />
+          <option name="createdAt" value="2018-07-25T13:23:46Z" />
+          <option name="description" value="chess-info" />
+          <option name="files">
+            <map>
+              <entry key="chess-info.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="chess-info.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/d46d3b28c3b852a2e016d142f6fcbae1/raw/5f596dcb1682c6231349ec2e79304d0beb389440/chess-info.css" />
+                    <option name="size" value="827" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="chess-info.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="chess-info.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/d46d3b28c3b852a2e016d142f6fcbae1/raw/6446a8ef004315d25302993c1cee7e8acb5cb576/chess-info.html" />
+                    <option name="size" value="11056" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="media.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="media.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/d46d3b28c3b852a2e016d142f6fcbae1/raw/5760c59602ac6b65f2b9064db5f437ff34af3d85/media.css" />
+                    <option name="size" value="475" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/d46d3b28c3b852a2e016d142f6fcbae1/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/d46d3b28c3b852a2e016d142f6fcbae1.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/d46d3b28c3b852a2e016d142f6fcbae1.git" />
+          <option name="htmlUrl" value="https://gist.github.com/d46d3b28c3b852a2e016d142f6fcbae1" />
+          <option name="id" value="d46d3b28c3b852a2e016d142f6fcbae1" />
+          <option name="nodeId" value="MDQ6R2lzdGQ0NmQzYjI4YzNiODUyYTJlMDE2ZDE0MmY2ZmNiYWUx" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-07-25T13:23:46Z" />
+          <option name="url" value="https://api.github.com/gists/d46d3b28c3b852a2e016d142f6fcbae1" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/1950b8e5754018f34e7a407ebd141349/commits" />
+          <option name="createdAt" value="2018-07-13T14:30:13Z" />
+          <option name="description" value="html/css/js---&gt;tabs" />
+          <option name="files">
+            <map>
+              <entry key="tabs.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="tabs.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/1950b8e5754018f34e7a407ebd141349/raw/f59ec20aabf5842d237244ece8c81ab184faeac1/tabs.css" />
+                    <option name="size" value="1" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="tabs.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="tabs.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/1950b8e5754018f34e7a407ebd141349/raw/021a2acccd51c7453a5031b1303cc56e0d89bbe8/tabs.html" />
+                    <option name="size" value="1093" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="tabs.js">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="tabs.js" />
+                    <option name="language" value="JavaScript" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/1950b8e5754018f34e7a407ebd141349/raw/e41e287824c8f08f6d0052e52924ded5f6797ea7/tabs.js" />
+                    <option name="size" value="594" />
+                    <option name="type" value="application/javascript" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/1950b8e5754018f34e7a407ebd141349/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/1950b8e5754018f34e7a407ebd141349.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/1950b8e5754018f34e7a407ebd141349.git" />
+          <option name="htmlUrl" value="https://gist.github.com/1950b8e5754018f34e7a407ebd141349" />
+          <option name="id" value="1950b8e5754018f34e7a407ebd141349" />
+          <option name="nodeId" value="MDQ6R2lzdDE5NTBiOGU1NzU0MDE4ZjM0ZTdhNDA3ZWJkMTQxMzQ5" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-07-13T15:51:17Z" />
+          <option name="url" value="https://api.github.com/gists/1950b8e5754018f34e7a407ebd141349" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/da90ffc84461ef1de9a24709b358edda/commits" />
+          <option name="createdAt" value="2018-06-21T14:07:05Z" />
+          <option name="description" value="css-icons" />
+          <option name="files">
+            <map>
+              <entry key="arrow-1">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="arrow-1" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/da90ffc84461ef1de9a24709b358edda/raw/7496556654fd46a0105b238ad7e036895297aa64/arrow-1" />
+                    <option name="size" value="466" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="icon-close.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="icon-close.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/da90ffc84461ef1de9a24709b358edda/raw/2c7ef3f51373c6339aff1c857fbef820aa95dbc3/icon-close.css" />
+                    <option name="size" value="946" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="icon-plus.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="icon-plus.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/da90ffc84461ef1de9a24709b358edda/raw/902506ff612c146b3c5d7a83507bdaf9500bbe45/icon-plus.css" />
+                    <option name="size" value="503" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="icon-triangle.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="icon-triangle.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/da90ffc84461ef1de9a24709b358edda/raw/40ea1131df3e85b7125a9b33acee6031a64b3ea5/icon-triangle.css" />
+                    <option name="size" value="583" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/da90ffc84461ef1de9a24709b358edda/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/da90ffc84461ef1de9a24709b358edda.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/da90ffc84461ef1de9a24709b358edda.git" />
+          <option name="htmlUrl" value="https://gist.github.com/da90ffc84461ef1de9a24709b358edda" />
+          <option name="id" value="da90ffc84461ef1de9a24709b358edda" />
+          <option name="nodeId" value="MDQ6R2lzdGRhOTBmZmM4NDQ2MWVmMWRlOWEyNDcwOWIzNThlZGRh" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-06-21T14:10:25Z" />
+          <option name="url" value="https://api.github.com/gists/da90ffc84461ef1de9a24709b358edda" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/f925d9ee59840f9aa71e96e8184719ee/commits" />
+          <option name="createdAt" value="2018-05-08T15:12:25Z" />
+          <option name="description" value="html/css/js---&gt;accordion--slide-single" />
+          <option name="files">
+            <map>
+              <entry key="css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="css" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f925d9ee59840f9aa71e96e8184719ee/raw/c01fd6a8e66307b390087a4be0163b224a352306/css" />
+                    <option name="size" value="13" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f925d9ee59840f9aa71e96e8184719ee/raw/a989bb3fd398c99e8cd9a7c7bb50aba005ffff4d/html" />
+                    <option name="size" value="865" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="js">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="js" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f925d9ee59840f9aa71e96e8184719ee/raw/82d3432556a66cfc9da04667111d95ef23275b5c/js" />
+                    <option name="size" value="630" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/f925d9ee59840f9aa71e96e8184719ee/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/f925d9ee59840f9aa71e96e8184719ee.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/f925d9ee59840f9aa71e96e8184719ee.git" />
+          <option name="htmlUrl" value="https://gist.github.com/f925d9ee59840f9aa71e96e8184719ee" />
+          <option name="id" value="f925d9ee59840f9aa71e96e8184719ee" />
+          <option name="nodeId" value="MDQ6R2lzdGY5MjVkOWVlNTk4NDBmOWFhNzFlOTZlODE4NDcxOWVl" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-05-08T15:13:07Z" />
+          <option name="url" value="https://api.github.com/gists/f925d9ee59840f9aa71e96e8184719ee" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/85fa5b2c8cad9c6a508cc74cc201e8a8/commits" />
+          <option name="createdAt" value="2018-05-08T14:48:58Z" />
+          <option name="description" value="html/css/js---&gt;accordion--slide-multiple" />
+          <option name="files">
+            <map>
+              <entry key="accordion-IvanP.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="accordion-IvanP.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/85fa5b2c8cad9c6a508cc74cc201e8a8/raw/4ee1c26fdad30067386961eaa811ebda70055a13/accordion-IvanP.css" />
+                    <option name="size" value="13" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="accordion-IvanP.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="accordion-IvanP.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/85fa5b2c8cad9c6a508cc74cc201e8a8/raw/ea1b2299ff1fbbb47c5535992c58f714c86e7cf5/accordion-IvanP.html" />
+                    <option name="size" value="557" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="accordion-IvanP.js">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="accordion-IvanP.js" />
+                    <option name="language" value="JavaScript" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/85fa5b2c8cad9c6a508cc74cc201e8a8/raw/8d61a888a60c6daefa5a6d06b3023f0291cec5ba/accordion-IvanP.js" />
+                    <option name="size" value="553" />
+                    <option name="type" value="application/javascript" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/85fa5b2c8cad9c6a508cc74cc201e8a8/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/85fa5b2c8cad9c6a508cc74cc201e8a8.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/85fa5b2c8cad9c6a508cc74cc201e8a8.git" />
+          <option name="htmlUrl" value="https://gist.github.com/85fa5b2c8cad9c6a508cc74cc201e8a8" />
+          <option name="id" value="85fa5b2c8cad9c6a508cc74cc201e8a8" />
+          <option name="nodeId" value="MDQ6R2lzdDg1ZmE1YjJjOGNhZDljNmE1MDhjYzc0Y2MyMDFlOGE4" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-05-08T15:10:06Z" />
+          <option name="url" value="https://api.github.com/gists/85fa5b2c8cad9c6a508cc74cc201e8a8" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/82681c04753a2b678d5a9c181a072236/commits" />
+          <option name="createdAt" value="2018-05-08T11:22:02Z" />
+          <option name="description" value="html/css-lang-swither-on-hover" />
+          <option name="files">
+            <map>
+              <entry key="language-select.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="language-select.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/82681c04753a2b678d5a9c181a072236/raw/c9ab1879c8bfc86cfeb0b19fa3e708b76ca04cc6/language-select.css" />
+                    <option name="size" value="2081" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="language-select.html">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="language-select.html" />
+                    <option name="language" value="HTML" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/82681c04753a2b678d5a9c181a072236/raw/c72abef4973cfa1dfd5c40e868b769cc360d6773/language-select.html" />
+                    <option name="size" value="329" />
+                    <option name="type" value="text/html" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/82681c04753a2b678d5a9c181a072236/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/82681c04753a2b678d5a9c181a072236.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/82681c04753a2b678d5a9c181a072236.git" />
+          <option name="htmlUrl" value="https://gist.github.com/82681c04753a2b678d5a9c181a072236" />
+          <option name="id" value="82681c04753a2b678d5a9c181a072236" />
+          <option name="nodeId" value="MDQ6R2lzdDgyNjgxYzA0NzUzYTJiNjc4ZDVhOWMxODFhMDcyMjM2" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-05-08T11:22:02Z" />
+          <option name="url" value="https://api.github.com/gists/82681c04753a2b678d5a9c181a072236" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/f1a2bcb16329cfac4093a8c6b5e89e83/commits" />
+          <option name="createdAt" value="2018-05-02T19:41:40Z" />
+          <option name="description" value="Visual Studio Code Settings Sync Gist" />
+          <option name="files">
+            <map>
+              <entry key="cloudSettings">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="cloudSettings" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/f6b730177368213041be137307b185a58ab285a5/cloudSettings" />
+                    <option name="size" value="69" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="extensions.json">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="extensions.json" />
+                    <option name="language" value="JSON" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/66e8228777c3a792a4cb1c19290906b008cb710a/extensions.json" />
+                    <option name="size" value="15493" />
+                    <option name="type" value="application/json" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="ftp-simple.json">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="ftp-simple.json" />
+                    <option name="language" value="JSON" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/a0c5ffd49487c45d3ab0939c8c042fa9113364c2/ftp-simple.json" />
+                    <option name="size" value="416" />
+                    <option name="type" value="application/json" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="keybindings.json">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="keybindings.json" />
+                    <option name="language" value="JSON" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/a21338a4c3fe525b7315704fa7d7c8f9eaf2a66d/keybindings.json" />
+                    <option name="size" value="214" />
+                    <option name="type" value="application/json" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="keybindingsMac.json">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="keybindingsMac.json" />
+                    <option name="language" value="JSON" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/23ca3db4bfe4526aa725f78f1a3acebd63d0f787/keybindingsMac.json" />
+                    <option name="size" value="8" />
+                    <option name="type" value="application/json" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="settings.json">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="settings.json" />
+                    <option name="language" value="JSON" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/f1a2bcb16329cfac4093a8c6b5e89e83/raw/898c39780e2cb34a41794fdfa505d3cf88e44a9a/settings.json" />
+                    <option name="size" value="2010" />
+                    <option name="type" value="application/json" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/f1a2bcb16329cfac4093a8c6b5e89e83/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/f1a2bcb16329cfac4093a8c6b5e89e83.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/f1a2bcb16329cfac4093a8c6b5e89e83.git" />
+          <option name="htmlUrl" value="https://gist.github.com/f1a2bcb16329cfac4093a8c6b5e89e83" />
+          <option name="id" value="f1a2bcb16329cfac4093a8c6b5e89e83" />
+          <option name="nodeId" value="MDQ6R2lzdGYxYTJiY2IxNjMyOWNmYWM0MDkzYThjNmI1ZTg5ZTgz" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-10-16T13:39:18Z" />
+          <option name="url" value="https://api.github.com/gists/f1a2bcb16329cfac4093a8c6b5e89e83" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/6732dead4000430b30c77766cddce7be/commits" />
+          <option name="createdAt" value="2018-04-27T12:16:44Z" />
+          <option name="description" value="html-list" />
+          <option name="files">
+            <map>
+              <entry key="html-list--columns">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--columns" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/f790049af1b6b30479eacdc7fca5c15d8f5d45fd/html-list--columns" />
+                    <option name="size" value="1278" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html-list--dot-list">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--dot-list" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/d3df6761fb35a460a996f9a9ded42b77f6799276/html-list--dot-list" />
+                    <option name="size" value="553" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html-list--icon-list(absolute)">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--icon-list(absolute)" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/cfef6d707cd07bc00e854c9a32494273a87bd1bc/html-list--icon-list(absolute)" />
+                    <option name="size" value="1395" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html-list--icon-list(on flex)">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--icon-list(on flex)" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/285376fe03c85067f7f3e1a6f41404b20505c085/html-list--icon-list(on%20flex)" />
+                    <option name="size" value="1242" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html-list--num-list">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--num-list" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/2bb583e1b2e57ad0ce92bd5b7fb1a606ba072fa3/html-list--num-list" />
+                    <option name="size" value="454" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+              <entry key="html-list--term-list-with-icon">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="html-list--term-list-with-icon" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6732dead4000430b30c77766cddce7be/raw/1c1ab8b886592cb3420a6b0244596680ac8752fa/html-list--term-list-with-icon" />
+                    <option name="size" value="1346" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/6732dead4000430b30c77766cddce7be/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/6732dead4000430b30c77766cddce7be.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/6732dead4000430b30c77766cddce7be.git" />
+          <option name="htmlUrl" value="https://gist.github.com/6732dead4000430b30c77766cddce7be" />
+          <option name="id" value="6732dead4000430b30c77766cddce7be" />
+          <option name="nodeId" value="MDQ6R2lzdDY3MzJkZWFkNDAwMDQzMGIzMGM3Nzc2NmNkZGNlN2Jl" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-10-17T16:03:33Z" />
+          <option name="url" value="https://api.github.com/gists/6732dead4000430b30c77766cddce7be" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/adab75373f9272b24dbd3e069c29852c/commits" />
+          <option name="createdAt" value="2018-04-27T12:07:30Z" />
+          <option name="description" value="css-animation" />
+          <option name="files">
+            <map>
+              <entry key="animation.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="animation.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/adab75373f9272b24dbd3e069c29852c/raw/0572ddcb856d239516cf7d67a38ffe64da88d552/animation.css" />
+                    <option name="size" value="252" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/adab75373f9272b24dbd3e069c29852c/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/adab75373f9272b24dbd3e069c29852c.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/adab75373f9272b24dbd3e069c29852c.git" />
+          <option name="htmlUrl" value="https://gist.github.com/adab75373f9272b24dbd3e069c29852c" />
+          <option name="id" value="adab75373f9272b24dbd3e069c29852c" />
+          <option name="nodeId" value="MDQ6R2lzdGFkYWI3NTM3M2Y5MjcyYjI0ZGJkM2UwNjljMjk4NTJj" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:07:31Z" />
+          <option name="url" value="https://api.github.com/gists/adab75373f9272b24dbd3e069c29852c" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/3f2617ac29f23cfffa2ec877a128b885/commits" />
+          <option name="createdAt" value="2018-04-27T12:06:48Z" />
+          <option name="description" value="css-btn" />
+          <option name="files">
+            <map>
+              <entry key="btn.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="btn.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/3f2617ac29f23cfffa2ec877a128b885/raw/2863cfc9ac93c0506232728d0ea18e84f0d93837/btn.css" />
+                    <option name="size" value="585" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/3f2617ac29f23cfffa2ec877a128b885/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/3f2617ac29f23cfffa2ec877a128b885.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/3f2617ac29f23cfffa2ec877a128b885.git" />
+          <option name="htmlUrl" value="https://gist.github.com/3f2617ac29f23cfffa2ec877a128b885" />
+          <option name="id" value="3f2617ac29f23cfffa2ec877a128b885" />
+          <option name="nodeId" value="MDQ6R2lzdDNmMjYxN2FjMjlmMjNjZmZmYTJlYzg3N2ExMjhiODg1" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:06:48Z" />
+          <option name="url" value="https://api.github.com/gists/3f2617ac29f23cfffa2ec877a128b885" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/c7b01728c99d95c107a6456c9cd6e30e/commits" />
+          <option name="createdAt" value="2018-04-27T12:06:24Z" />
+          <option name="description" value="css-icon-fonts" />
+          <option name="files">
+            <map>
+              <entry key="icon-fonts.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="icon-fonts.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/c7b01728c99d95c107a6456c9cd6e30e/raw/34c473b9c20a2f0aeb56504ec430a1a79841014e/icon-fonts.css" />
+                    <option name="size" value="768" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/c7b01728c99d95c107a6456c9cd6e30e/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/c7b01728c99d95c107a6456c9cd6e30e.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/c7b01728c99d95c107a6456c9cd6e30e.git" />
+          <option name="htmlUrl" value="https://gist.github.com/c7b01728c99d95c107a6456c9cd6e30e" />
+          <option name="id" value="c7b01728c99d95c107a6456c9cd6e30e" />
+          <option name="nodeId" value="MDQ6R2lzdGM3YjAxNzI4Yzk5ZDk1YzEwN2E2NDU2YzljZDZlMzBl" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:06:25Z" />
+          <option name="url" value="https://api.github.com/gists/c7b01728c99d95c107a6456c9cd6e30e" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/08ae02f2ffcd78f149952d01e084749c/commits" />
+          <option name="createdAt" value="2018-04-27T12:05:09Z" />
+          <option name="description" value="css-fonts-conect" />
+          <option name="files">
+            <map>
+              <entry key="fonts-conect.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="fonts-conect.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/08ae02f2ffcd78f149952d01e084749c/raw/27ab44490cd7d058c47466ab4e3f2459b3016d40/fonts-conect.css" />
+                    <option name="size" value="867" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/08ae02f2ffcd78f149952d01e084749c/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/08ae02f2ffcd78f149952d01e084749c.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/08ae02f2ffcd78f149952d01e084749c.git" />
+          <option name="htmlUrl" value="https://gist.github.com/08ae02f2ffcd78f149952d01e084749c" />
+          <option name="id" value="08ae02f2ffcd78f149952d01e084749c" />
+          <option name="nodeId" value="MDQ6R2lzdDA4YWUwMmYyZmZjZDc4ZjE0OTk1MmQwMWUwODQ3NDlj" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:05:09Z" />
+          <option name="url" value="https://api.github.com/gists/08ae02f2ffcd78f149952d01e084749c" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/bbfb675bb12d54c939866f946091664a/commits" />
+          <option name="createdAt" value="2018-04-27T12:03:14Z" />
+          <option name="description" value="css-modification-classes" />
+          <option name="files">
+            <map>
+              <entry key="modification-classes.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="modification-classes.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/bbfb675bb12d54c939866f946091664a/raw/a9fb3caec5ff8213fb21637d1aba39d7136a7a48/modification-classes.css" />
+                    <option name="size" value="224" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/bbfb675bb12d54c939866f946091664a/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/bbfb675bb12d54c939866f946091664a.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/bbfb675bb12d54c939866f946091664a.git" />
+          <option name="htmlUrl" value="https://gist.github.com/bbfb675bb12d54c939866f946091664a" />
+          <option name="id" value="bbfb675bb12d54c939866f946091664a" />
+          <option name="nodeId" value="MDQ6R2lzdGJiZmI2NzViYjEyZDU0YzkzOTg2NmY5NDYwOTE2NjRh" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:03:15Z" />
+          <option name="url" value="https://api.github.com/gists/bbfb675bb12d54c939866f946091664a" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/6283204134f8796c15735ceb1ececb38/commits" />
+          <option name="createdAt" value="2018-04-27T12:02:37Z" />
+          <option name="description" value="css-universal-classes" />
+          <option name="files">
+            <map>
+              <entry key="universal-classes.css">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="universal-classes.css" />
+                    <option name="language" value="CSS" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/6283204134f8796c15735ceb1ececb38/raw/baae515fca95f87c3f1c619b8926b5c8a92c4ab9/universal-classes.css" />
+                    <option name="size" value="453" />
+                    <option name="type" value="text/css" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/6283204134f8796c15735ceb1ececb38/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/6283204134f8796c15735ceb1ececb38.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/6283204134f8796c15735ceb1ececb38.git" />
+          <option name="htmlUrl" value="https://gist.github.com/6283204134f8796c15735ceb1ececb38" />
+          <option name="id" value="6283204134f8796c15735ceb1ececb38" />
+          <option name="nodeId" value="MDQ6R2lzdDYyODMyMDQxMzRmODc5NmMxNTczNWNlYjFlY2VjYjM4" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:02:37Z" />
+          <option name="url" value="https://api.github.com/gists/6283204134f8796c15735ceb1ececb38" />
+        </Gist>
+        <Gist>
+          <option name="comments" value="0" />
+          <option name="commitsUrl" value="https://api.github.com/gists/b8da7b5897a06b3dbfaa3270355cd2b1/commits" />
+          <option name="createdAt" value="2018-04-27T12:01:17Z" />
+          <option name="description" value="css-reset" />
+          <option name="files">
+            <map>
+              <entry key="reset">
+                <value>
+                  <GistFile>
+                    <option name="filename" value="reset" />
+                    <option name="rawUrl" value="https://gist.githubusercontent.com/allekss90/b8da7b5897a06b3dbfaa3270355cd2b1/raw/96c5047994ce8845afe820d1b9038b30c18c77da/reset" />
+                    <option name="size" value="1537" />
+                    <option name="type" value="text/plain" />
+                  </GistFile>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="forksUrl" value="https://api.github.com/gists/b8da7b5897a06b3dbfaa3270355cd2b1/forks" />
+          <option name="gitPullUrl" value="https://gist.github.com/b8da7b5897a06b3dbfaa3270355cd2b1.git" />
+          <option name="gitPushUrl" value="https://gist.github.com/b8da7b5897a06b3dbfaa3270355cd2b1.git" />
+          <option name="htmlUrl" value="https://gist.github.com/b8da7b5897a06b3dbfaa3270355cd2b1" />
+          <option name="id" value="b8da7b5897a06b3dbfaa3270355cd2b1" />
+          <option name="nodeId" value="MDQ6R2lzdGI4ZGE3YjU4OTdhMDZiM2RiZmFhMzI3MDM1NWNkMmIx" />
+          <option name="owner">
+            <GistOwner />
+          </option>
+          <option name="truncated" value="false" />
+          <option name="updatedAt" value="2018-04-27T12:01:54Z" />
+          <option name="url" value="https://api.github.com/gists/b8da7b5897a06b3dbfaa3270355cd2b1" />
+        </Gist>
+      </list>
+    </option>
+  </component>
+</application>
