@@ -4,12 +4,19 @@
     <property name="created">2019-04-01T18:33:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-04-01T18:39:13</property>
+    <property name="modified">2019-04-01T18:57:43</property>
     <property name="originalScheme">_@user_Keen Light (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Lucida Console" />
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -41,17 +48,19 @@
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="6f8b94" />
-    <option name="GUTTER_BACKGROUND" value="c7c7c7" />
+    <option name="GUTTER_BACKGROUND" value="bdbdbd" />
     <option name="INDENT_GUIDE" value="c4c4c4" />
     <option name="INFORMATION_HINT" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
-    <option name="METHOD_SEPARATORS_COLOR" value="bfbfbf" />
+    <option name="METHOD_SEPARATORS_COLOR" value="c8c8c8" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="111111" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="cccccc" />
+    <option name="READONLY_BACKGROUND" value="" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="ffffff" />
     <option name="RIGHT_MARGIN_COLOR" value="c2c2c2" />
     <option name="SELECTED_INDENT_GUIDE" value="a6a6a6" />
     <option name="SELECTED_TEARLINE_COLOR" value="a6a6a6" />
@@ -1376,7 +1385,7 @@
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="264b33" />
+        <option name="BACKGROUND" value="336545" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
@@ -3385,7 +3394,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="111111" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="cccccc" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3400,6 +3409,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="364e64" />
+        <option name="BACKGROUND" value="9aff8b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
