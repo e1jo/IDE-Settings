@@ -1,11 +1,11 @@
 <application>
   <component name="UISettings">
     <option name="DISABLE_MNEMONICS" value="true" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="11" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="25" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

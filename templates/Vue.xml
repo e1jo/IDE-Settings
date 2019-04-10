@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="&lt;mvx&gt;" value="//store/index.js example&#10;&#10;import Vue from 'vue';&#10;import Vuex from 'vuex';&#10;&#10;Vue.use(Vuex);&#10;&#10;&#10;export const store = new Vuex.Store({&#10;&#9;state: {&#10;&#9;&#10;&#9;},&#10;&#9;getters: {&#10;&#9;&#10;&#9;},&#10;&#9;mutations: {&#10;&#9;&#10;&#9;},&#10;&#9;actions: {&#10;&#9;&#10;&#9;},&#10;&#9;strict: process.env.NODE_ENV !== 'production'&#10;});" description="my VueX template" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

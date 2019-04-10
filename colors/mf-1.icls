@@ -4,16 +4,17 @@
     <property name="created">2018-03-19T15:27:49</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-06-13T15:10:03</property>
+    <property name="modified">2019-04-04T14:53:40</property>
     <property name="originalScheme">my FAV theme -1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="0.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -1194,6 +1195,9 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -1336,11 +1340,13 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="a6b2c0" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -1976,9 +1982,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="557ecf" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
