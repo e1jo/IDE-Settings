@@ -4,21 +4,18 @@
     <property name="created">2018-04-03T18:08:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2019-04-15T16:36:28</property>
+    <property name="modified">2019-04-15T17:35:00</property>
     <property name="originalScheme">_@user_Box UK Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="15b8ae" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -594,6 +591,11 @@
       <value>
         <option name="FOREGROUND" value="a7a5a1" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CUSTOM_NUMBER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="86f6a" />
       </value>
     </option>
     <option name="Class">
@@ -1320,9 +1322,54 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ab97b8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8b7e98" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="dc80db" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="68cb44" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="414f5c" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="19d76" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="414f5c" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1718f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="14b6ac" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1994,7 +2041,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3394,7 +3441,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="414f5c" />
+        <option name="FOREGROUND" value="272e38" />
         <option name="BACKGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3408,7 +3455,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7a776f" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
