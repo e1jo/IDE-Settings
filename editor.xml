@@ -1,4 +1,7 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="150" nodeAutoDelay="150" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
